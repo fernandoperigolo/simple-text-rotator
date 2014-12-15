@@ -148,7 +148,7 @@
               "-o-transform": "rotate(0) scale(1)",
               "transform": "rotate(0) scale(1)"
             })
-          break;.
+          break;
           
           case 'fade':
             el.fadeOut(settings.speed, function() {
